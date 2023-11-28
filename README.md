@@ -29,6 +29,7 @@
     - OHE?
     - NLP?
  - True/False columns to numeric
+ - Metadata report
 
 
  ## Exploratory Data Analysis
