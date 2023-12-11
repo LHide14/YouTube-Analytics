@@ -8,6 +8,14 @@ def main():
 
     youtube = build('youtube', 'v3', developerKey=api_key)
 
+    current_video_ids = grab_list_generator()
+
+    current_video_stats_df = get_video_stats(youtube, current_video_ids)
+
+    sorter(current_video_stats_df)
+
+
+
 
 # list of playlist ids
 def chosen_playlist_ids():
@@ -69,7 +77,8 @@ def mass_video_ids(youtube, wanted_playlist_ids):
 
             else:
                 nextpage = False
-    # 
+
+    # new day df
     all_data_df = pd.DataFrame(all_data)
 
     retrived_video_ids = all_data_df['video_id']
@@ -93,7 +102,7 @@ def video_id_checker(base_list, grab_list, new_list):
             grab_list.append(video_id)
 
 
-# 
+# generate new grab list for each day to track current videos and add any new ones
 def grab_list_generator():
 
     # Establishing base lists:
@@ -114,6 +123,7 @@ def grab_list_generator():
     return grab_list
 
 
+# gets all new video data for each video
 def get_video_stats(youtube, list_of_video_ids):
 
     all_data = []
@@ -152,29 +162,6 @@ def get_video_stats(youtube, list_of_video_ids):
 
     return all_data_df
 
-
-## saving daily collection dataframes
-def save_day_1_df(df):
-    with open('day_1_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
-def save_day_2_df(df):
-    with open('day_2_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
-def save_day_3_df(df):
-    with open('day_3_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
-def save_day_4_df(df):
-    with open('day_4_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
-def save_day_5_df(df):
-    with open('day_5_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
-def save_day_6_df(df):
-    with open('day_6_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
-def save_day_7_df(df):
-    with open('day_7_df.pkl', 'wb') as file:
-        pickle.dump(df, file)
 
 ## loading daily collection dataframes
 def get_day_1_df():
@@ -227,6 +214,11 @@ def get_day_7_df():
 
     return day_7_df
 
+# save final day video id to base list(legacy video list)
+def save_base_list():
+    with open('base_video_id_list.pkl', 'wb') as file:
+        pickle.dump(base_video_id_list, file)
+
 
 def sorter(new_day_df):
 
@@ -239,9 +231,8 @@ def sorter(new_day_df):
     day_6_df = get_day_6_df()
     day_7_df = get_day_7_df()
 
-
     # Iterating and appending new data
-    for index, row in new_day_df.iterrows():
+    for _, row in new_day_df.iterrows():
 
         if row['video_id'] not in list(day_1_df['video_id']):
             day_1_df = pd.concat([day_1_df, row.to_frame().transpose()], ignore_index=True)
@@ -258,17 +249,14 @@ def sorter(new_day_df):
         elif row['video_id'] not in list(day_7_df['video_id']):
             day_7_df = pd.concat([day_7_df, row.to_frame().transpose()], ignore_index=True)
         else:
-            continue
-        
-
-    # Saving new dataframes
-    save_day_1_df(day_1_df)
-    save_day_2_df(day_2_df)
-    save_day_3_df(day_3_df)
-    save_day_4_df(day_4_df)
-    save_day_5_df(day_5_df)
-    save_day_6_df(day_6_df)
-    save_day_7_df(day_7_df)
+            base_list = get_base_list()
+            base_list.append(row['video_id'])
+            save_base_list()
+    
+    # save all dfs from each day
+    df_list = [day_1_df, day_2_df, day_3_df, day_4_df, day_5_df, day_6_df, day_7_df]
+    for df in df_list:
+        save_each_day_df(df)        
 
 
 if __name__ == "__main__":
