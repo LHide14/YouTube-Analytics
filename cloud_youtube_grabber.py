@@ -29,7 +29,7 @@ def main():
     client = storage.Client()
     bucket = client.get_bucket(bucket_name)
     blob = bucket.blob(f'cloud_function_data/example_data_{today}.csv')
-    blob.upload_from_string(csv_string)
+    blob.upload_from_string(csv_string, content_type='text/csv')
 
 # Getting list of playlist ids
 def chosen_playlist_ids():

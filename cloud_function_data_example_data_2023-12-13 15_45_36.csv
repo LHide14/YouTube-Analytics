@@ -1,0 +1,792 @@
+video_id,channel_id,published_at,title,description,tags,category_id,duration,caption,licensed_content,default_language,content_rating,view_count,like_count,favourite_count,comment_count,extraction_date
+7oIKqEP_0lE,UCDybamfye5An6p-j1t2YMsg,2023-12-05T14:00:07Z,How can you become a Business Analyst? #businessanalyst #career,Data Analyst/Husband interviews Business Analyst/Wife.,[],22,PT57S,false,True,,{},1349,61,0,1,2023-12-13 15:45:36
+peusIyzi8tM,UCJublDh2UsiIKsAE1553miw,2023-12-05T13:00:45Z,Sliding Window Algorithms are Extremely Common!! | Max Consecutive Ones III - Leetcode 1004,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT55S,false,True,en,{},4606,384,0,2,2023-12-13 15:45:36
+dCNjUOc1cBY,UC7cs8q-gJRlGwj4A8OmCmXg,2023-12-05T13:00:35Z,Having vs Where in MySQL | Beginner MySQL Series,"Full MySQL Course: https://www.analystbuilder.com/courses/mysql-for-data-analytics
+
+In this lesson we are going to take a look at Having vs Where in MySQL!
+
+GitHub Code: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Having%20vs%20Where.sql
+____________________________________________ 
+
+SUBSCRIBE!
+Do you want to become a Data Analyst? That's what this channel is all about! My goal is to help you learn everything you need in order to start your career or even switch your career into Data Analytics. Be sure to subscribe to not miss out on any content!
+____________________________________________ 
+
+RESOURCES:
+
+Coursera Courses:
+📖Google Data Analyst Certification: https://coursera.pxf.io/5bBd62
+📖Data Analysis with Python - https://coursera.pxf.io/BXY3Wy
+📖IBM Data Analysis Specialization - https://coursera.pxf.io/AoYOdR
+📖Tableau Data Visualization - https://coursera.pxf.io/MXYqaN
+
+Udemy Courses:
+📖Python for Data Science - https://bit.ly/3Z4A5K6
+📖Statistics for Data Science - https://bit.ly/37jqDbq
+📖SQL for Data Analysts (SSMS) - https://bit.ly/3fkqEij
+📖Tableau A-Z - http://bit.ly/385lYvN
+
+*Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!*
+____________________________________________ 
+
+BECOME A MEMBER - 
+
+Want to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!
+
+https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join
+____________________________________________ 
+
+Websites: 
+💻Website: AlexTheAnalyst.com
+💾GitHub: https://github.com/AlexTheAnalyst
+📱Instagram: @Alex_The_Analyst
+____________________________________________
+
+*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*","['Data Analyst', 'Data Analyst job', 'Data Analyst Career', 'Data Analytics', 'Alex The Analyst']",27,PT3M46S,false,True,,{},4482,180,0,14,2023-12-13 15:45:36
+IQb1jOY3V0c,UCzL_0nIe8B4-7ShhVPfJkgw,2023-12-06T20:44:34Z,Evaluating Large Language Models,"LLMs are powering generative AI applications, yet properly evaluating them is quite challenging. LLM-based applications suffer from issues of hallucinations, toxicity, out-of-context awareness, prompt injection, data leaks, and more. Evaluating the usefulness of LLM applications is essential before putting them in production. In this live session, we will discuss LLM and generative AI evaluation techniques, including the setup, metrics, data, and more. We will also discuss tools that can automate LLM evaluations for RAG and non-RAG applications.",[],24,P0D,false,False,en-US,{},0,0,0,0,2023-12-13 15:45:36
+muWpG8hsP3c,UCzL_0nIe8B4-7ShhVPfJkgw,2023-12-06T17:32:49Z,Generative AI from Proof of Concept to Production,"Launching a generative AI application into production is no easy task. After the launch of ChatGPT, many organizations have built proof of concepts but have struggled to find reliable business and technology cases. In this talk, we'll discuss how to bridge the gap between proof of concepts and production applications for conversational use cases. This will include a walkthrough of important techniques including RAG, LLM evaluations, and creating business cases.
+
+Key takeaways:
+1) How to go from proof of concept to production
+2) Which LLM techniques help you get to production
+3) How to measure ROI on Generative AI use cases",[],24,P0D,false,False,en-US,{},0,0,0,0,2023-12-13 15:45:36
+2OikDCZSPbM,UCChmJrVa8kDg05JfCmxpLRw,2023-12-10T13:03:03Z,Sharing My High-Paying Data Engineering Projects of This Year,"Join My Data Engineering Course Here: https://datavidhya.com/courses
+
+In this video, I have shared my high-paying data engineering projects where I made more than $100,000+ in 1-2 years by working on these projects, these are projects that I worked with big companies/clients
+
+Get 250+ End-To-End Projects (ProjectPro) - https://bit.ly/3GEuFgU 
+
+Timestamps
+0:00 My High-Paying Freelance Projects
+0:37 250+ HandsOn Projects (ProjectPro)
+1:28 Project No. 4 (Made $15,000)
+6:24 Project No. 3 (Made $20,000)
+10:12 Project No. 2 (Made $10,000)
+11:57 Project No. 1 (Made $45,000)
+15:22 You can do these projects too
+
+👦🏻 My Linkedin - https://www.linkedin.com/in/darshil-parmar/
+ 📷 Instagram - https://www.instagram.com/darshilparmarr
+🎯Twitter - https://twitter.com/parmardarshil07
+
+🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟
+
+3 Books You Should Read
+📈Principles: Life and Work: https://amzn.to/3HQJDyP 
+👀Deep Work: https://amzn.to/3IParkk 
+💼Rework: https://amzn.to/3HW981O 
+
+Tech I use every day
+💻MacBook Pro M1: https://amzn.to/3CiFVwC 
+📺LG 22 Inch Monitor: https://amzn.to/3zk0Dts 
+🎥Sony ZV1: https://amzn.to/3hRpSMJ 
+🎙Maono AU-A04: https://amzn.to/3Bnu53n
+⽴Tripod Stand: https://amzn.to/3tA7hu7 
+🔅Osaka Ring Light and Stand: https://amzn.to/3MtLAEG 
+🎧Sony WH-1000XM4 Headphone: https://amzn.to/3sM4sXS 
+🖱Zebronics Zeb-War Keyboard and Mouse:  https://amzn.to/3zeF1yq 
+💺CELLBELL C104 Office Chair: https://amzn.to/3IRpiL2 
+
+
+👉Data Engineering Complete Roadmap: https://www.youtube.com/playlist?list=PLBJe2dFI4sgtlK_zaqaIBdJFgieYPnQ07
+👉Data Engineering Project Series: https://www.youtube.com/playlist?list=PLBJe2dFI4sgukOW6O0B-OVyX9c6fQKJ2N 
+👉Become Full-Time Freelancer: https://www.youtube.com/playlist?list=PLBJe2dFI4sgtza0sAnNFwo8KPG0GcO9Il 
+👉Data With Darshil Podcast: https://www.youtube.com/playlist?list=PLBJe2dFI4sgv_XmEDaXF3z1MNib7R3KUY 
+
+
+
+✨ Tags ✨
+
+
+✨ Hashtags ✨
+#aws #dataengineering #dataengineer","['darshil parmar', 'darshil parmar data engineer project', 'data engineer', 'data engineering', 'data engineering projects', 'freelance data engineerings', 'aws data engineering', 'free data engineering projects', 'aws projects', 'freelance aws data engineer', 'end-to-end data engineering projects', 'freelance projects', 'free data engineering projects guide', 'how to become data engineer in 2024', 'data engineer roadmap 2024', 'learn big data engineering']",27,PT16M11S,true,True,en-IN,{},9113,335,0,43,2023-12-13 15:45:36
+ZTt9gsGcdDo,UCtYLUTtgS3k1Fg4y5tAhLbw,2023-12-11T05:00:25Z,"Essential Matrix Algebra for Neural Networks, Clearly Explained","Although you don't need to know matrix algebra to understand the ideas behind neural networks, if you want to code them or read the latest manuscripts about the field, then you'll need to understand matrix algebra. This video teaches the essential topics in matrix algebra and shows how a neural network can be written as a matrix equation, and then shows how understand PyTorch documentation, error messages and the equations for Attention, which is the fundamental concept behind ChatGPT.
+
+Note: If you want to learn more about neural networks...
+https://youtu.be/CqOfi41LfDw
+...backpropagation...
+https://youtu.be/IN2XmBhILt4
+...the ReLU activation function...
+https://youtu.be/68BZ5f7P94E
+...tensors...
+https://youtu.be/L35fFDpwIM4
+...SoftMax...
+https://youtu.be/KpKog-L9veg
+...Transformers and Attention...
+https://youtu.be/zxQyTK8quyY
+
+If you'd like to support StatQuest, please consider...
+Patreon: https://www.patreon.com/statquest
+...or...
+YouTube Membership: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/join
+
+...buying my book, a study guide, a t-shirt or hoodie, or a song from the StatQuest store...
+https://statquest.org/statquest-store/
+
+...or just donating to StatQuest!
+paypal: https://www.paypal.me/statquest
+venmo: @JoshStarmer
+
+Lastly, if you want to keep up with me as I research and create new StatQuests, follow me on twitter:
+https://twitter.com/joshuastarmer
+
+0:00 Awesome song and introduction
+2:35 Introduction to linear transformations
+5:57 Linear transformations in matrix notation
+7:34 Matrix multiplication
+11:03 Matrix multiplication consolidates a sequence of linear transformations
+13: 46 Order matters for matrix multiplication
+15:18 Transposing a matrix
+16:37 Matrix notation and equations
+18:51 Using matrix equations to describe a neural network
+24:26 nn.Linear() documentation explained
+26:38 1-D vs 2-D error messages explained
+27:17 The matrix equation for Attention explained
+
+#StatQuest #neuralnetworks #matrixalgebra","['Josh Starmer', 'StatQuest', 'Machine Learning', 'Statistics', 'Data Science']",27,PT30M1S,false,True,en,{},10128,512,0,48,2023-12-13 15:45:36
+WfyudVCIGsI,UCw_LFe2pS8x3NyipGNJgeEA,2023-12-09T10:14:20Z,Become a Data Engineer and ACTUALLY Get Hired,"👉 Become a Data Engineer FAST: https://learnwithlukas.com/deroadmap
+
+👉 Data Analyst Beginner Roadmap: https://bit.ly/3LKWVk7
+
+▬▬▬▬
+
+In this video, we'll talk about what skills employers actually look for when hiring data engineers. We'll avoid all the complexity, and just head straight to the job market to look for real job listings.
+
+The information on this YouTube Channel and the resources available are for educational and informational purposes only. As an affiliate, I may earn when you sign up to websites/ for services provided in the description. This allows me to run the channel and make free, quality videos for you.","['data engineer', 'data engineer skills', 'data engineering', 'how to become a data engineer', 'become a data engineer', 'data engineer roadmap', 'data engineer learn', 'become a data engineer fast', 'data engineering beginners', 'beginner to data engineer', 'data engineer job', 'data engineer no degree', 'data engineer vs data analyst', 'data engineer vs data scientist', 'skills for data engineering', 'what is data engineering', 'what does a data engineer do', 'data engineer responsibilities', 'learn with lukas']",28,PT13M36S,false,True,en,{},1933,98,0,4,2023-12-13 15:45:36
+67Nu2FXtZVI,UCw_LFe2pS8x3NyipGNJgeEA,2023-12-05T22:28:15Z,Top 5 Data Analyst Portfolios,"👉 Data Analyst Beginner Roadmap: https://bit.ly/3LKWVk7
+
+👉 Google Data Analytics Certificate: http://bit.ly/3EK2ZH6
+
+👉 Data Analyst Projects: http://bit.ly/3xZIcvq
+
+
+▬▬▬▬
+
+A portfolio is more important than ever. Here are the top 5 data analyst portfolios.
+
+The information on this YouTube Channel and the resources available are for educational and informational purposes only. As an affiliate, I may earn when you sign up to websites/ for services provided in the description. This allows me to run the channel and make free, quality videos for you.","['data analyst portfolio project', 'data analyst portfolio projects', 'data analytics', 'data analyst', 'data portfolio', 'data analyst portfolio', 'data analysis', 'data analyst job', 'data analyst projects', 'make data analyst portfolio', 'data analyst portfolio easy', 'data analyst roadmap', 'simple data portfolio', 'fast data analyst portfolio', 'build data analyst portfolio', 'data analyst easy portfolio', 'data science', 'become a data analyst', 'data analyst best portfolio projects', 'data analyst project']",28,PT6M47S,true,True,en,{},4210,261,0,10,2023-12-13 15:45:36
+OuvRJ0NgcVA,UCDybamfye5An6p-j1t2YMsg,2023-12-12T13:45:02Z,"My life as a Data Analyst / ""YouTuber"" | morning routine, work, snow, groceries, rescuing our friend","💻 Roadmap, Ultimate Portfolio, 1:1 Coaching, Resumes ➡️ https://mochen.info/ 📊
+https://discord.gg/EBh7j9uRJ2
+https://www.instagram.com/mo_chen1/
+https://www.linkedin.com/in/mo-chen1/
+
+Just trying to live my best life. Nothing fancy, just some wholesome content here.
+
+Professional Certificates
+📖 Google Data Analytics Professional Certificate ➡︎ https://imp.i384100.net/googleDACert
+🎓 Google Advanced Data Analytics Professional Certificate ➡︎ https://imp.i384100.net/googleAdvDataCert
+📊 Tableau Business Intelligence Analyst Professional Certificate ➡︎ https://imp.i384100.net/TableauBIAnalyst
+📈 Microsoft Power BI Data Analyst Professional Certificate ➡︎  https://imp.i384100.net/MicrosoftPowerBIdaProfCert
+📚 Google Business Intelligence Professional Certificate ➡︎ https://imp.i384100.net/googleBIcert
+📉 IBM Data Analyst Professional Certificate ➡︎ https://edx.sjv.io/IBMdataAnalyst
+
+Courses
+📄 Excel ➡︎ https://imp.i384100.net/IBMexcel
+👨‍💻 SQL ➡︎ https://imp.i384100.net/UCDavisSQLDataScience
+📊 Tableau ➡︎ https://imp.i384100.net/TableauBIAnalyst
+📈 Power BI ➡︎  https://imp.i384100.net/MicrosoftPowerBIdaProfCert
+💻 Python ➡︎ https://imp.i384100.net/IBMpython
+
+Timestamps
+00:00 Morning routine (coffee, light work, gym)
+06:35 Work
+09:14 Brief office tour
+10:33 Food
+11:15 Lunchtime walk with Nicole and Rocket
+14:00 More work
+17:11 After work chill
+17:49 Our home cinema
+18:58 Grocery haul
+23:27 Rocket, the persimmon monster
+25:09 It's snowing (out and about in town)
+31:21 Getting Rocket's dog bed
+32:08 Off home with the goodies
+34:33 Off to save our friend
+37:30 We found him!
+42:00 Snow. Fun.
+42:31 Getting Christmas lights
+46:59 Thanks for watching!
+
+Please note I may earn a small commission at no extra cost to you for any purchase through these links. Thanks a lot for supporting the channel!
+
+All opinions or statements in this video are my own and do not reflect the opinion of the organisation I work for or have ever worked for.",[],22,PT47M45S,false,True,,{},2129,143,0,36,2023-12-13 15:45:36
+O_y9vvmKNVI,UCDybamfye5An6p-j1t2YMsg,2023-12-10T13:00:24Z,What's it like being on a graduate scheme?  #dataanalyst #businessanalyst #career,Data Analyst/Husband interviews Business Analyst/Wife.,[],22,PT46S,false,True,,{},826,43,0,4,2023-12-13 15:45:36
+lOEWYWLda4U,UCDybamfye5An6p-j1t2YMsg,2023-12-09T13:00:40Z,The reality of applying to jobs #businessanalyst #dataanalyst #career,Data Analyst/Husband interviews Business Analyst/Wife.,[],22,PT56S,false,True,,{},1479,84,0,1,2023-12-13 15:45:36
+-fTyx4sajR0,UCDybamfye5An6p-j1t2YMsg,2023-12-08T14:00:00Z,How hard is it to land a business analyst role? #businessanalyst #dataanalyst #career,Data Analyst/Husband interviews Business Analyst/Wife.,[],22,PT56S,false,True,,{},1556,69,0,0,2023-12-13 15:45:36
+--QIY5sUkno,UCDybamfye5An6p-j1t2YMsg,2023-12-07T14:00:00Z,How to stand out when interviewing? #career #businessanalyst #dataanalyst,Data Analyst/Husband interviews Business Analyst/Wife.,[],22,PT55S,false,True,,{},3858,151,0,1,2023-12-13 15:45:36
+Cntzusy4f4A,UCDybamfye5An6p-j1t2YMsg,2023-12-06T14:00:09Z,How to succeed at interviews/assessment centers? #businessanalyst #interview #career,Data Analyst/Husband interviews Business Analyst/Wife.,[],22,PT41S,false,True,,{},778,18,0,0,2023-12-13 15:45:36
+yC529Il5pBY,UCPvDKIsrjA_h3g5yZJwCIHA,2023-12-13T12:30:38Z,Important Data Visualization in Statistics | Descriptive Statistics | Ultimate Guide !! | Part 10,"This video will introduce you to the top three important statistical visualizations: scatter plots, boxplots, and histograms. Understand the significance of these graphical representations in statistics and learn when and why to use them. 
+
+Let's dive into the world of data analysis together! 📈📉
+
+0:00 - Intro
+0:54 - Histograms
+4:18 - Types of histograms based on skewness (left skewed and right skewed)
+8:48 - Types of histograms based on modes (unimodal, bimodal, multimodal)
+9:51 - Boxplots
+12:37 - Scatterplots and its types
+
+Follow me on: 
+
+✅LinkedIn: https://www.linkedin.com/in/ayushi-mishra-30813b174
+✅Instagram: https://www.instagram.com/ayushi.mishra0117/
+
+🔥 Book 1:1 call with me (Career Guidance, Resume Review, LinkedIn Profile Review) : https://topmate.io/ayushi_mishra
+
+#datavisualization #dataanalytics #dataanalysis #statistics #statisticalanalysis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Keywords:
+statistics visualizations, data analysis graphs, graphical representation of data, understanding statistical charts, visualizing data sets, interpreting data visually, statistical plotting techniques, importance of visualizations in statistics, tutorial on histograms, boxplot explanation video, scatter plot examples tutorial, data visualization tools, statistical graph types, practical data representation, effective data communication, data exploration visuals, visual analytics in statistics, charting data patterns, data insights through visualization, statistical graph interpretation, data storytelling, trend analysis, YouTube analytics tips, popular data visualization tools, big data trends, machine learning visualizations, YouTube algorithm insights, predictive analytics techniques, trending statistical methods, data-driven decision-making, viral data trends, interactive data dashboards, YouTube search trends, predictive modeling insights, emerging data visualization trends.","['data analytics career', 'data analytics project', 'data analytics roadmap', 'data analytics roadmap 2023', 'data analytics roadmap in hindi', 'data visualization', 'data visualization techniques', 'what is data visualization', 'descriptive statistics', 'statistics tutorial', 'statistics', 'statistical visualization', 'data analysis', 'data analytics career salary', 'data analytics career path', 'storytelling with data', 'histograms', 'scatter plots', 'boxplots', 'right skewed histograms', 'left skewed histograms']",27,PT17M45S,false,True,,{},51,6,0,1,2023-12-13 15:45:36
+i63Q9AosfTI,UCObs0kLIrDjX2LLSybqNaEA,2023-12-12T01:16:04Z,Cracking the Code: Mastering the Top Challenges of Studying Abroad,"Learn more about MSISML Program with University of Arizona - https://www.mygreatlearning.com/ms-information-science-machine-learning-hybrid-university-arizona?utm_source=GLA&utm_medium=YT_Session_DES&utm_campaign=GLA-StudyAbroad-LiveSession-2023-0-5-Exp-11-December-2023
+
+Link to our Study Abroad programs -
+https://www.mygreatlearning.com/study-abroad/courses?utm_source=GLA&utm_medium=YT_Session_DES&utm_campaign=GLA-StudyAbroad-LiveSession-2023-0-5-Exp-11-December-2023 
+
+As a recent graduate, or an early working professional, seeking higher education and rewarding career opportunities, if you are considering studying abroad, this session is meant for you. In this live session we will discuss common challenges faced by any study abroad aspirant. Whether it's about selecting the right course, the right university, or the right format of education, this session will guide you to take an informed decision. Through this session we will also introduce you to one of our study abroad programs from one of the top universities in U.S. in one of the most trending domains. Watch this session to find out how you could fulfil your dream of studying abroad from a top university, with a rewarding career and all of this, without having to appear for any entrance tests and at a fraction of the actual cost of doing a full time in campus program.","['Great Learning', 'study abroad after graduation', 'masters in usa', 'post graduation admission 2023', 'usa admission procedure', 'visa process for usa', 'student visa', 'ms in usa', 'study abroad', 'f1 visa', 'great lakes', 'study in usa', 'machine learning', 'data science', 'artificial intelligence', 'study abroad in usa', 'usa visa', 'study abroad tips', 'student visa interview', 'how to study abroad', 'study abroad vlog', 'should i study abroad']",27,PT32M10S,false,False,,{},613,14,0,1,2023-12-13 15:45:36
+lbemQZVo3Mc,UC79Gv3mYp6zKiSwYemEik9A,2023-12-13T12:04:29Z,Modernizing Sales Analytics with Snowflake,,[],24,P0D,false,False,,{},0,0,0,0,2023-12-13 15:45:36
+XHUZRnSBva0,UC79Gv3mYp6zKiSwYemEik9A,2023-12-13T05:23:18Z,Retrieval Augmented Generation with LlamaIndex,,[],24,PT1H8M30S,false,False,,{},284,20,0,1,2023-12-13 15:45:36
+Avo19Xh4jNw,UC79Gv3mYp6zKiSwYemEik9A,2023-12-12T12:07:04Z,Exploratory Data Analysis in Python for Beginners,,[],24,P0D,false,False,,{},0,1,0,0,2023-12-13 15:45:36
+H6myqau0Mqw,UC79Gv3mYp6zKiSwYemEik9A,2023-12-11T13:09:46Z,"What are World Models? (with Craig S. Smith, Host of the Eye on A.I Podcast)","Craig S. Smith shares how LLMs are just the tip of the generatiove AI iceberg, and why Yann Lecun and Wayve AI are building towards the next big step in AI - world models. 
+
+In the full episode, Richie and Craig explore the 2023 advancements in generative AI, such as GPT-4, and the evolving roles of companies like Anthropic and Meta, practical AI applications for research and image generation, challenges in large language models, the promising future of world models and AI agents, the societal impacts of AI, the issue of misinformation, computational constraints, and the importance of AI literacy in the job market, the transformative potential of AI in various sectors and much more. 
+
+Find DataFramed on DataCamp https://www.datacamp.com/podcast
+
+and on your preferred podcast streaming platform:
+
+Apple Podcasts:
+https://podcasts.apple.com/us/podcast/dataframed/id1336150688
+
+Spotify:
+https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X?si=d08431f59edc4ccd
+
+Google Podcasts:
+https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vZGF0YWZyYW1lZC8
+
+Links Mentioned in the clip:
+
+Eye on AI - https://www.eye-on.ai/
+
+Wayve AI - https://wayve.ai/
+
+Yann Lecun - https://g.co/kgs/s4jt6r",[],24,PT7M40S,false,False,,{},86,1,0,0,2023-12-13 15:45:36
+FDeWjXg-5O8,UC79Gv3mYp6zKiSwYemEik9A,2023-12-11T12:33:35Z,"#167 What to Expect from AI in 2024 with Craig S. Smith, Host of the Eye on A.I Podcast","Over the past year, we’ve seen a full hype cycle of hysteria and discourse surrounding generative AI. It almost seems difficult to think back to a time when no one had used ChatGPT. We are in the midst of the fourth industrial revolution, and technology is moving rapidly. Better performing and more capable models are being released at a stunning rate, and with the growing presence of multimodal AI, can we expect another whirlwind year that vastly changes the state of play within AI again? Who might be able to provide insight into what is to come in 2024?
+
+Craig S. Smith is an American journalist, former executive of The New York Times, and host of the podcast Eye on AI. Until January 2000, he wrote for The Wall Street Journal, most notably covering the rise of the religious movement Falun Gong in China. He has reported for the Times from more than 40 countries and has covered several conflicts, including the 2001 invasion of Afghanistan, the 2003 war in Iraq, and the 2006 Israeli-Lebanese war. He retired from the Times in 2018 and now writes about artificial intelligence for the Times and other publications. He was a special Government employee for the National Security Commission on Artificial Intelligence until the commission's end in October 2021. 
+
+In the episode, Richie and Craig explore the 2023 advancements in generative AI, such as GPT-4, and the evolving roles of companies like Anthropic and Meta, practical AI applications for research and image generation, challenges in large language models, the promising future of world models and AI agents, the societal impacts of AI, the issue of misinformation, computational constraints, and the importance of AI literacy in the job market, the transformative potential of AI in various sectors and much more. 
+
+Find DataFramed on DataCamp https://www.datacamp.com/podcast
+
+and on your preferred podcast streaming platform:
+
+Apple Podcasts:
+https://podcasts.apple.com/us/podcast/dataframed/id1336150688
+
+Spotify:
+https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X?si=d08431f59edc4ccd
+
+Google Podcasts:
+https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vZGF0YWZyYW1lZC8
+
+Links Mentioned in the Show:
+Eye on AI - https://www.eye-on.ai/
+
+Wayve AI - https://wayve.ai/
+
+Anthropic - https://www.anthropic.com/
+
+Cohere - https://www.cohere.ai/
+
+Midjourney - https://www.midjourney.com/
+
+Yann Lecun - https://g.co/kgs/s4jt6r",[],24,PT59M43S,false,False,,{},117,2,0,0,2023-12-13 15:45:36
+eBDNBc6khvY,UC79Gv3mYp6zKiSwYemEik9A,2023-12-08T10:06:11Z,Fine-tuning GPT3.5 with the OpenAI API,,[],24,P0D,false,False,,{},0,4,0,0,2023-12-13 15:45:36
+8z2knsb6Qas,UC79Gv3mYp6zKiSwYemEik9A,2023-12-07T12:12:51Z,The Secret to Successful Data Literacy Programs,,[],24,P0D,false,False,,{},0,3,0,0,2023-12-13 15:45:36
+8_j3-Sx7nwk,UC79Gv3mYp6zKiSwYemEik9A,2023-11-30T09:38:15Z,3. Building Multimodal AI Applications with LangChain & the OpenAI API - AI Code Along,"#ai #codealong #gpt #langchain #openai #pinecone #huggingface 
+
+Code Along for Free Using DataCamp Workspace: https://www.datacamp.com/ai-code-alongs 
+
+Generative AI makes it easy to move beyond simply working with text: other media like audio and images can now be easily analyzed or generated. In this code-along, you'll learn how to transcribe YouTube video content with the Whisper speech-to-text AI and then use GPT to ask questions about the content.
+
+For a limited time, the Become an AI Developer code-along series is free for everyone. All you need is a free DataCamp account to begin. Simply sign up or log in to your account and start learning. Whether you're a beginner or an experienced developer, these code-alongs were designed by industry-leading experts with accessibility in mind. Get started today and be part of the AI revolution!
+
+Get started here! https://www.datacamp.com/ai-code-alongs
+
+Find other code alongs in this series: https://youtube.com/playlist?list=PLjgj6kdf_snbrEI-BgJh36tNcemL2kdbS&si=sKRkj_z4D9x_myJK
+
+Deepen your understanding of AI: https://www.datacamp.com/search?q=ai","['ai', 'code along', 'gpt', 'langchain', 'openai', 'pinecone', 'huggingface']",24,PT28M40S,false,False,,{},8,0,0,0,2023-12-13 15:45:36
+luRtEpFuwXA,UC79Gv3mYp6zKiSwYemEik9A,2023-11-30T09:37:17Z,2. Prompt Engineering with GPT & LangChain - AI Code Along,"#ai #codealong #gpt #langchain #openai #pinecone #huggingface 
+
+Code Along for Free Using DataCamp Workspace: https://www.datacamp.com/ai-code-alongs 
+
+The quality of responses from GPT or other large language models is highly dependent on the quality of messages you send it.
+
+In this code-along, you'll learn how to perform sentiment analysis with GPT and LangChain, learn about MRKL prompts used to help LLMs reason,  and build a simple AI agent. You'll also learn how to use prompt templates and parse the output from prompts, as well as filter bad unsavory content with the moderation API.
+
+For a limited time, the Become an AI Developer code-along series is free for everyone. All you need is a free DataCamp account to begin. Simply sign up or log in to your account and start learning. Whether you're a beginner or an experienced developer, these code-alongs were designed by industry-leading experts with accessibility in mind. Get started today and be part of the AI revolution!
+
+Get started here! https://www.datacamp.com/ai-code-alongs
+
+Find other code alongs in this series: https://youtube.com/playlist?list=PLjgj6kdf_snbrEI-BgJh36tNcemL2kdbS&si=sKRkj_z4D9x_myJK
+
+Deepen your understanding of AI: https://www.datacamp.com/search?q=ai","['ai', 'code along', 'gpt', 'langchain', 'openai', 'pinecone', 'huggingface']",27,PT1H36M45S,false,False,,{},106,3,0,0,2023-12-13 15:45:36
+cMJWC-csdK4,UCNU_lfiiWBdtULKOw6X0Dig,2023-12-13T12:19:24Z,End To End LLM Project Using LLAMA 2- Open Source LLM Model From Meta,"Blog Generation Platform Code: https://github.com/krishnaik06/Complete-Langchain-Tutorials/tree/main/Blog%20Generation
+The Llama 2 release introduces a family of pretrained and fine-tuned LLMs, ranging in scale from 7B to 70B parameters (7B, 13B, 70B). The pretrained models come with significant improvements over the Llama 1 models, including being trained on 40% more tokens, having a much longer context length (4k tokens 🤯), and using grouped-query attention for fast inference of the 70B model🔥!
+
+Time Stamp
+
+00:00:00 Introduction And Agenda
+00:02:36 Introducing LLama 2 Fro Meta
+00:05:08 LLama 2 Research paper
+00:10:20 How To Download LLama 2 model
+00:13:18 End To End Blog Generation LLM Platform
+---------------------------------------------------------------------------------------------------------
+Start Contributing in Open Source Projects
+The-Grand-Complete-Data-Science-Materials
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+------------------------------------------------------------------------------------------------------
+Complete Langchain Playlist: 
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+--------------------------------------------------------------------------------------------------------
+Support me by joining membership so that I can upload these kind of videos
+https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
+------------------------------------------------------------------------------------------------------------------------------
+►Data Science Projects: 
+https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&pp=iAQB
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://www.youtube.com/watch?v=LZzq1zSL1bs&t=9522s&pp=ygUVa3Jpc2ggbmFpayBzdGF0aXN0aWNz
+
+Machine Learning In 6 Hours: https://www.youtube.com/watch?v=JxgmHe2NyeY&t=4733s&pp=ygUba3Jpc2ggbmFpayBtYWNoaW5lIGxlYXJuaW5n
+
+Deep Learning 5 hours : https://www.youtube.com/watch?v=d2kxUVwWWwU&t=1210s&pp=ygUYa3Jpc2ggbmFpayBkZWVwIGxlYXJuaW5n
+
+►Learn In a Week Playlist
+
+Statistics:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+
+Machine Learning : https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+Deep Learning:https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+►Detailed Playlist:
+Python Detailed Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&pp=gAQB
+Python playlit in Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
+Stats For Data Science In Hindi : https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&pp=gAQB
+Machine Learning In English : https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+Machine Learning In Hindi : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=gAQB
+Complete Deep Learning: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi","['yt:cc=on', 'llama2 tutorials', 'llama2 llm model from meta', 'large language models', 'open ource llm models', 'llama turoails', 'generative ai', 'hugging face llama2 model']",27,PT36M2S,false,True,,{},1859,277,0,31,2023-12-13 15:45:36
+nCglvjJkU8A,UCNU_lfiiWBdtULKOw6X0Dig,2023-12-12T08:38:48Z,Roadmap to Learn Generative AI(LLM's) In 2024 With Free Videos And Materials- Krish Naik,"Generative AI Roadmap : https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/tree/main
+----------------------------------------------------------------------
+Start Contributing in Open Source Projects
+The-Grand-Complete-Data-Science-Materials
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+------------------------------------------------------------------------------------------------------
+Complete Langchain Playlist: 
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+--------------------------------------------------------------------------------------------------------
+Support me by joining membership so that I can upload these kind of videos
+https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
+------------------------------------------------------------------------------------------------------------------------------
+►Data Science Projects: 
+https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&pp=iAQB
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://www.youtube.com/watch?v=LZzq1zSL1bs&t=9522s&pp=ygUVa3Jpc2ggbmFpayBzdGF0aXN0aWNz
+
+Machine Learning In 6 Hours: https://www.youtube.com/watch?v=JxgmHe2NyeY&t=4733s&pp=ygUba3Jpc2ggbmFpayBtYWNoaW5lIGxlYXJuaW5n
+
+Deep Learning 5 hours : https://www.youtube.com/watch?v=d2kxUVwWWwU&t=1210s&pp=ygUYa3Jpc2ggbmFpayBkZWVwIGxlYXJuaW5n
+
+►Learn In a Week Playlist
+
+Statistics:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+
+Machine Learning : https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+Deep Learning:https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+►Detailed Playlist:
+Python Detailed Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&pp=gAQB
+Python playlit in Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
+Stats For Data Science In Hindi : https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&pp=gAQB
+Machine Learning In English : https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+Machine Learning In Hindi : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=gAQB
+Complete Deep Learning: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi","['yt:cc=on', 'roadmap to learn generative ai', 'open ai tutorials', 'langchain tutorials', 'chainlit tutorials', 'machine learning tutorials', 'deep learnign tutorials', 'llm application', 'large language models tutorials', 'krish naik']",27,PT20M17S,false,True,,{},23423,1213,0,41,2023-12-13 15:45:36
+0R1mA_MVItI,UCNU_lfiiWBdtULKOw6X0Dig,2023-12-10T08:14:54Z,Can We Learn Generative AI Without Knowing Machine Learning And Deep Learning?,"Start Contributing in Open Source Projects
+The-Grand-Complete-Data-Science-Materials
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+------------------------------------------------------------------------------------------------------
+Complete Langchain Playlist: 
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+--------------------------------------------------------------------------------------------------------
+Support me by joining membership so that I can upload these kind of videos
+https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
+------------------------------------------------------------------------------------------------------------------------------
+►Data Science Projects: 
+https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&pp=iAQB
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://www.youtube.com/watch?v=LZzq1zSL1bs&t=9522s&pp=ygUVa3Jpc2ggbmFpayBzdGF0aXN0aWNz
+
+Machine Learning In 6 Hours: https://www.youtube.com/watch?v=JxgmHe2NyeY&t=4733s&pp=ygUba3Jpc2ggbmFpayBtYWNoaW5lIGxlYXJuaW5n
+
+Deep Learning 5 hours : https://www.youtube.com/watch?v=d2kxUVwWWwU&t=1210s&pp=ygUYa3Jpc2ggbmFpayBkZWVwIGxlYXJuaW5n
+
+►Learn In a Week Playlist
+
+Statistics:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+
+Machine Learning : https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+Deep Learning:https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+►Detailed Playlist:
+Python Detailed Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&pp=gAQB
+Python playlit in Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
+Stats For Data Science In Hindi : https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&pp=gAQB
+Machine Learning In English : https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+Machine Learning In Hindi : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=gAQB
+Complete Deep Learning: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi",[],27,PT9M24S,false,True,,{},22926,532,0,49,2023-12-13 15:45:36
+HWbbQChO_u4,UCNU_lfiiWBdtULKOw6X0Dig,2023-12-08T14:52:37Z,Using AI To Train AI,"Julius is a powerful AI data analyst that helps you analyze and visualize your data. Chat with your data, create graphs, build forecasting models, and more.
+Check out the Julius Platform : https://bit.ly/3uYejNB
+
+---------------------------------------------------------------------------------------------------
+Start Contributing in Open Source Projects
+The-Grand-Complete-Data-Science-Materials
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+------------------------------------------------------------------------------------------------------
+Complete Langchain Playlist: 
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+--------------------------------------------------------------------------------------------------------
+Support me by joining membership so that I can upload these kind of videos
+https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
+------------------------------------------------------------------------------------------------------------------------------
+►Data Science Projects: 
+https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&pp=iAQB
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://www.youtube.com/watch?v=LZzq1zSL1bs&t=9522s&pp=ygUVa3Jpc2ggbmFpayBzdGF0aXN0aWNz
+
+Machine Learning In 6 Hours: https://www.youtube.com/watch?v=JxgmHe2NyeY&t=4733s&pp=ygUba3Jpc2ggbmFpayBtYWNoaW5lIGxlYXJuaW5n
+
+Deep Learning 5 hours : https://www.youtube.com/watch?v=d2kxUVwWWwU&t=1210s&pp=ygUYa3Jpc2ggbmFpayBkZWVwIGxlYXJuaW5n
+
+►Learn In a Week Playlist
+
+Statistics:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+
+Machine Learning : https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+Deep Learning:https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+►Detailed Playlist:
+Python Detailed Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&pp=gAQB
+Python playlit in Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
+Stats For Data Science In Hindi : https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&pp=gAQB
+Machine Learning In English : https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+Machine Learning In Hindi : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=gAQB
+Complete Deep Learning: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi","['yt:cc=on', 'how can AI train AI', 'Julius AI data nalyst', 'Julius AI data scientist', 'can we train AI models', 'machine learning tutorials', 'deep elarning tutorials', 'krish naik ai tutorials']",27,PT12M10S,false,True,,{},13508,465,0,60,2023-12-13 15:45:36
+it0l6lx3qI0,UCNU_lfiiWBdtULKOw6X0Dig,2023-12-07T08:51:26Z,Google Is On Another Level- Check Out Gemini New AI Large Language Model(LLM)- Better Than GPT4,"Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.
+Check out  the link: https://deepmind.google/technologies/gemini/#introduction 
+----------------------------------------------------------------------------------------------------
+Start Contributing in Open Source Projects
+The-Grand-Complete-Data-Science-Materials
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+------------------------------------------------------------------------------------------------------
+Complete Langchain Playlist: 
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+--------------------------------------------------------------------------------------------------------
+Support me by joining membership so that I can upload these kind of videos
+https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
+------------------------------------------------------------------------------------------------------------------------------
+►Data Science Projects: 
+https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&pp=iAQB
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://www.youtube.com/watch?v=LZzq1zSL1bs&t=9522s&pp=ygUVa3Jpc2ggbmFpayBzdGF0aXN0aWNz
+
+Machine Learning In 6 Hours: https://www.youtube.com/watch?v=JxgmHe2NyeY&t=4733s&pp=ygUba3Jpc2ggbmFpayBtYWNoaW5lIGxlYXJuaW5n
+
+Deep Learning 5 hours : https://www.youtube.com/watch?v=d2kxUVwWWwU&t=1210s&pp=ygUYa3Jpc2ggbmFpayBkZWVwIGxlYXJuaW5n
+
+►Learn In a Week Playlist
+
+Statistics:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+
+Machine Learning : https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+Deep Learning:https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+►Detailed Playlist:
+Python Detailed Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&pp=gAQB
+Python playlit in Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
+Stats For Data Science In Hindi : https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&pp=gAQB
+Machine Learning In English : https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+Machine Learning In Hindi : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=gAQB
+Complete Deep Learning: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi","['yt:cc=on', 'google deepmind', 'gemini ai model', 'welcome to the gemini era', 'gemini ai llm models', 'gemini is better than gtp 4']",27,PT11M50S,false,True,,{},45884,871,0,57,2023-12-13 15:45:36
+0y2nPFChke8,UCNU_lfiiWBdtULKOw6X0Dig,2023-12-06T07:02:59Z,Spitting Out some of the Important facts about money nobody will talk about #startups,"Start Contributing in Open Source Projects
+The-Grand-Complete-Data-Science-Materials
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials
+------------------------------------------------------------------------------------------------------
+Complete Langchain Playlist: 
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+--------------------------------------------------------------------------------------------------------
+Support me by joining membership so that I can upload these kind of videos
+https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
+------------------------------------------------------------------------------------------------------------------------------
+►Data Science Projects: 
+https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&pp=iAQB
+
+►Learn In One Tutorials
+
+Statistics in 6 hours: https://www.youtube.com/watch?v=LZzq1zSL1bs&t=9522s&pp=ygUVa3Jpc2ggbmFpayBzdGF0aXN0aWNz
+
+Machine Learning In 6 Hours: https://www.youtube.com/watch?v=JxgmHe2NyeY&t=4733s&pp=ygUba3Jpc2ggbmFpayBtYWNoaW5lIGxlYXJuaW5n
+
+Deep Learning 5 hours : https://www.youtube.com/watch?v=d2kxUVwWWwU&t=1210s&pp=ygUYa3Jpc2ggbmFpayBkZWVwIGxlYXJuaW5n
+
+►Learn In a Week Playlist
+
+Statistics:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+
+Machine Learning : https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+Deep Learning:https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+►Detailed Playlist:
+Python Detailed Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&pp=gAQB
+Python playlit in Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
+Stats For Data Science In Hindi : https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&pp=gAQB
+Machine Learning In English : https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+Machine Learning In Hindi : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=gAQB
+Complete Deep Learning: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi","['yt:cc=on', 'how to become data scientist', 'machine learnign tutorials', 'depe learnign tutorials']",27,PT9M33S,false,True,,{},13047,652,0,64,2023-12-13 15:45:36
+sJZ3I-BslHY,UCV8e2g4IWQqK71bbzGDEI4Q,2023-12-09T07:18:51Z,How to use Llama2 locally,"In this video, you'll learn how to use Llama2 locally on your own computer (also in a Colab notebook!).
+
+🐙 Code https://github.com/dataprofessor/llama2
+
+Note: Look for Llama2.ipynb and llama2-local.py
+
+
+******************
+Support my work:
+👪 Join as Channel Member:
+https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q/join
+✉️ Newsletter http://newsletter.dataprofessor.org
+📖 Join Medium to Read my Blogs https://data-professor.medium.com/membership
+☕ Buy me a coffee https://www.buymeacoffee.com/dataprofessor
+
+Recommended Resources
+📚 Books https://kit.co/dataprofessor
+😎 Taro (Tech Career Mentorship) https://www.jointaro.com/r/dataprofessor/
+📜 Google Data Analytics Professional Certificate https://click.linksynergy.com/deeplink?id=PNeWWakF7rI&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics
+🤔 Interview Query https://www.interviewquery.com/?ref=dataprofessor
+🖥️ Stock photos, graphics and videos used on this channel https://1.envato.market/c/2346717/628379/4662
+
+Subscribe:
+🌟 Coding Professor https://www.youtube.com/channel/UCJzlfIoF8nmWqJIv_iWQVRw?sub_confirmation=1
+🌟 Data Professor https://www.youtube.com/dataprofessor?sub_confirmation=1
+
+Disclaimer:
+Recommended books and tools are affiliate links that gives me a portion of sales at no cost to you, which will contribute to the improvement of this channel's contents.
+
+#datascience #machinelearning #dataprofessor","['llama2', 'llama', 'llama2 python', 'llama2 local', 'llama2 locally', 'llama2 meta', 'meta llama2', 'llama2 tutorial', 'llama2 python tutorial', 'python llama2', 'python llama2 tutorial', 'llm', 'llms2', 'llm tutorial', 'llm python', 'llms python', 'python llm', 'python llms', 'python tutorial', 'large language model', 'large language models', 'python large language model', 'python large language models']",28,PT9M,false,True,,{},1375,62,0,5,2023-12-13 15:45:36
+HtO5NTmFHR0,UCJublDh2UsiIKsAE1553miw,2023-12-13T13:00:17Z,Google LOVES This Coding Interview Question! | Happy Number - Leetcode 202,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT45S,false,True,en,{},272,115,0,1,2023-12-13 15:45:36
+edMLOmMbzkU,UCJublDh2UsiIKsAE1553miw,2023-12-13T02:00:13Z,Have you Seen this Coding Interview Question? | Two Sum 2 - Leetcode 167,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT1M,false,True,en,{},2069,150,0,5,2023-12-13 15:45:36
+Dt4FKOF25ZY,UCJublDh2UsiIKsAE1553miw,2023-12-12T19:15:39Z,Binary Search - Leetcode 704 - Explanation + Python Solution,"Learn Python and Data Science at https://mlnow.ai :)
+
+Best Courses for Analytics:
+---------------------------------------------------------------------------------------------------------
++ IBM Data Science (Python):  https://bit.ly/3Rn00ZA
++ Google Analytics (R):   https://bit.ly/3cPikLQ
++ SQL Basics:   https://bit.ly/3Bd9nFu
+
+
+Best Courses for Programming:
+---------------------------------------------------------------------------------------------------------
++ Data Science in R:   https://bit.ly/3RhvfFp
++ Python for Everybody:   https://bit.ly/3ARQ1Ei
++ Data Structures & Algorithms:   https://bit.ly/3CYR6wR
+
+
+Best Courses for Machine Learning:
+---------------------------------------------------------------------------------------------------------
++ Math Prerequisites:  https://bit.ly/3ASUtTi
++ Machine Learning:   https://bit.ly/3d1QATT
++ Deep Learning:   https://bit.ly/3KPfint
++ ML Ops:   https://bit.ly/3AWRrxE
+
+
+Best Courses for Statistics:
+---------------------------------------------------------------------------------------------------------
++ Introduction to Statistics: https://bit.ly/3QkEgvM
++ Statistics with Python:  https://bit.ly/3BfwejF
++ Statistics with R:  https://bit.ly/3QkicBJ
+
+
+Best Courses for Big Data:
+---------------------------------------------------------------------------------------------------------
++ Google Cloud Data Engineering:   https://bit.ly/3RjHJw6
++ AWS Data Science:   https://bit.ly/3TKnoBS
++ Big Data Specialization:   https://bit.ly/3ANqSut
+
+
+More Courses:
+---------------------------------------------------------------------------------------------------------
++ Tableau:   https://bit.ly/3q966AN
++ Excel:   https://bit.ly/3RBxind
+
++ Computer Vision:   https://bit.ly/3esxVS5
++ Natural Language Processing:   https://bit.ly/3edXAgW
+
++ IBM Dev Ops:   https://bit.ly/3RlVKt2
++ IBM Full Stack Cloud:    https://bit.ly/3x0pOm6
++ Object Oriented Programming (Java):   https://bit.ly/3Bfjn0K
+
++ TensorFlow Advanced Techniques: https://bit.ly/3BePQV2
++ TensorFlow Data and Deployment: https://bit.ly/3BbC5Xb
++ Generative Adversarial Networks / GANs (PyTorch): https://bit.ly/3RHQiRj
+
+
+Become a Member of the Channel! https://bit.ly/3oOMrVH
+Follow me on LinkedIn! https://www.linkedin.com/in/greghogg/
+
+
+Full Disclosure:
+Please note that I may earn a commission for purchases made at the above sites! I strongly believe in the material provided; I only recommend what I truly think is great. If you do choose to make purchases through these links; thank you for supporting the channel, it helps me make more free content like this!","['Machine Learning', 'Data Science', 'Python', 'Deep Learning', 'ML', 'DL', 'Py', 'Jupyter', 'Colab', 'Tutorial', 'Step by Step', 'TensorFlow', 'Spark', 'PySpark', 'Big Data', 'Data', 'Neural Networks', 'Data Scientist', 'Sklearn', 'Scikit-Learn', 'Keras', 'NumPy', 'Pandas']",27,PT6M22S,false,True,en,{},160,9,0,2,2023-12-13 15:45:36
+CYXl9KLf4r4,UCJublDh2UsiIKsAE1553miw,2023-12-12T13:00:07Z,Designing a New DATA STRUCTURE for a Coding Interview! | Min Stack - Leetcode 155,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT1M,false,True,en,{},4051,275,0,5,2023-12-13 15:45:36
+CdsrJEomHAE,UCJublDh2UsiIKsAE1553miw,2023-12-11T17:09:19Z,Stacks are ESSENTIAL for Coding Interviews! | Valid Parentheses - Leetcode 20,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT56S,false,True,en,{},7508,524,0,3,2023-12-13 15:45:36
+lBiD5P3C1NA,UCJublDh2UsiIKsAE1553miw,2023-12-10T13:00:38Z,FAANG Interview Question! | Product of Array Except Self - Leetcode 238,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT1M,false,True,en,{},4872,271,0,19,2023-12-13 15:45:36
+n_g6vKrRBoU,UCJublDh2UsiIKsAE1553miw,2023-12-09T13:00:39Z,Let's do some more Backtracking! | Combination Sum III - Leetcode 216,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT1M,false,True,en,{},4693,278,0,8,2023-12-13 15:45:36
+7MnVLhVXd2g,UCJublDh2UsiIKsAE1553miw,2023-12-08T13:00:05Z,Companies Love this Interview Question! | Grouped Anagrams - Leetcode 49,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT56S,false,True,en,{},7413,394,0,16,2023-12-13 15:45:36
+mwXLdJVOF2w,UCJublDh2UsiIKsAE1553miw,2023-12-07T13:00:36Z,Google Interview Question! | Valid Anagram - Leetcode 242,"leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT54S,false,True,en,{},10653,569,0,12,2023-12-13 15:45:36
+qtrUyQ0GWBQ,UCJublDh2UsiIKsAE1553miw,2023-12-06T13:00:44Z,"Prefix Sums are Easy, and Super Helpful!","leetcode, coding interview question, data structures, data structures and algorithms, faang","['leetcode', 'coding interview question', 'data structures', 'data structures and algorithms', 'backtracking', 'permutations']",27,PT52S,false,True,en,{},4290,284,0,8,2023-12-13 15:45:36
+XD1ul5fpnGI,UC7cs8q-gJRlGwj4A8OmCmXg,2023-12-12T13:00:21Z,Analyst Builder Full Launch! | The Learning Platform Built for Data Analysts,"Try out Analyst Builder Today! https://www.analystbuilder.com/
+
+20% Off Code until December 18th: ABLIVE23
+
+Thank you all for your support! We've had an amazing response from the community and we plan on making Analyst Builder than any other learning platform in the world!
+____________________________________________ 
+
+BECOME A MEMBER - 
+
+Want to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!
+
+https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join
+____________________________________________ 
+
+Websites: 
+💻Website: AlexTheAnalyst.com
+💾GitHub: https://github.com/AlexTheAnalyst
+📱Instagram: @Alex_The_Analyst
+____________________________________________
+
+*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*","['Data Analyst', 'Data Analyst job', 'Data Analyst Career', 'Data Analytics', 'Alex The Analyst']",27,PT16M27S,false,True,en,{},3475,277,0,35,2023-12-13 15:45:36
+kifhSqep9UM,UC7cs8q-gJRlGwj4A8OmCmXg,2023-12-11T19:04:05Z,Analyst Builder Full Launch LiveStream | 20% Off Code & Giveaways,"Try out Analyst Builder Today! https://www.analystbuilder.com/
+
+20% Off Code until December 18th: ABLIVE23
+
+Doing a long livestream to celebrate the full launch of Analyst Builder! 
+____________________________________________ 
+
+SUBSCRIBE!
+Do you want to become a Data Analyst? That's what this channel is all about! My goal is to help you learn everything you need in order to start your career or even switch your career into Data Analytics. Be sure to subscribe to not miss out on any content!
+____________________________________________ 
+
+Websites: 
+💻Website: AnalystBuilder.com
+💾GitHub: https://github.com/AlexTheAnalyst
+📱Instagram: @Alex_The_Analyst
+____________________________________________
+
+*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*","['Data Analyst', 'Data Analyst job', 'Data Analyst Career', 'Data Analytics', 'Alex The Analyst']",27,PT4H34M24S,false,False,en,{},9144,443,0,8,2023-12-13 15:45:36
+dfFgaTdS3rE,UCVhQ2NnY5Rskt6UjCUkJ_DA,2023-12-08T16:00:34Z,ArjanCodes Q&A 2023 | Everything You Wanted to Know!,"Recently, I asked what programming questions you have, and you responded with great ones! In this Q&A video, I'm answering your programming queries, covering everything you wanted to know!
+
+👷 Join the FREE Code Diagnosis Workshop to help you review code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis
+
+Try Learntail for FREE ➡️ https://www.learntail.com/
+
+🎓 Courses:
+The Software Designer Mindset: https://www.arjancodes.com/mindset
+The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect
+Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python
+The 30-Day Design Challenge: https://www.arjancodes.com/30ddc
+
+🛒 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes.
+
+👍 If you enjoyed this content, give this video a like. If you want to watch more of my upcoming videos, consider subscribing to my channel!
+
+Social channels:
+💬 Discord: https://discord.arjan.codes
+🐦Twitter: https://twitter.com/arjancodes
+🌍LinkedIn: https://www.linkedin.com/company/arjancodes
+🕵Facebook: https://www.facebook.com/arjancodes
+📱Instagram: https://www.instagram.com/arjancodes
+♪ Tiktok: https://www.tiktok.com/@arjancodes
+
+👀 Code reviewers:
+- Yoriz
+- Ryan Laursen
+- Dale Hagglund
+
+🎥 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark
+
+🔖 Chapters:
+0:00 Intro
+2:30 What is the current standard structure for a Python project?
+4:26 How do you apply TDD for machine learning and deep learning projects?
+6:19 Will you ever do video game related content?
+8:15 When building a Python REST API, do you use snake_case, or camelCase?
+10:05 How do you separate front end from back end?
+11:23 What about the Pros and Cons of using Python vs Java in education?
+14:50 Is it recommended to build standalone software with Python and tkinter for commercial use?
+16:15 I have a dream of contributing to a programming language. How difficult to achieve is that?
+17:27 What are some tips and resources you can recommend for older folks looking to get into coding?
+19:49 What is the order of your playlists to learn Python step-by-step?
+20:23 Have you ever battled golden handcuffs or have any recommendations on how you might approach such a problem?
+24:17 Can you explain the difference between using pickle, hfd5, or databases like SQLlite to save and manipulate data?
+25:27 Do you plan to create any videos regarding pytest?
+26:06 Outro
+
+#arjancodes #softwaredesign #python
+
+DISCLAIMER - The links in this description might be affiliate links. If you purchase a product or service through one of those links, I may receive a small commission. There is no additional charge to you. Thanks for supporting my channel so I can continue to provide you with free content each week!","['q&a', 'questions and answers', 'questions answered', 'arjancodes', 'python questions and answers', 'python questions', 'software development questions', 'software design questions', 'arjancodes q&a', 'programming questions in python', 'coding questions and answers', 'coding questions python', 'coding questions javascript', 'q&a questions', 'q&a video', 'q&a programm', 'q&a programming']",27,PT26M32S,true,True,en-US,{},5772,323,0,36,2023-12-13 15:45:36
