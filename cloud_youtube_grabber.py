@@ -1,45 +1,35 @@
 # Importing Packages
-
 from googleapiclient.discovery import build
 import pandas as pd
 import pickle
 import datetime
 import base64
 from google.cloud import storage
-from google.cloud import bigquery
 
 # Define variables for Cloud Functions
 bucket_name = 'youtube_analytics_bucket'
 project_name = 'angular-expanse-405413'
-dataset_name = 'test'
-table_name = 'example_data'
+api_key = 'AIzaSyBAobEQD70yA3gEWGjeZxGfyvvlwvMDsr8'
+youtube = build('youtube', 'v3', developerKey=api_key)
 
-def generate_data():
+def main():
 
-     # Creating data
-     df = data_generator()
+    # Creating data
+    current_video_ids = grab_list_generator()
 
-     # Convert the DataFrame to a CSV string
-     csv_string = df.to_csv(index=False)
+    current_video_stats_df = get_video_stats(youtube, current_video_ids)
 
-     # Get the current time
-     today = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    # Convert the DataFrame to a CSV string
+    csv_string = current_video_stats_df.to_csv(index=False)
 
-     # Upload CSV file to Cloud Storage
-     client = storage.Client()
-     bucket = client.get_bucket(bucket_name)
-     blob = bucket.blob(f'cloud_function_data/example_data_{today}.csv')
-     blob.upload_from_string(csv_string)
+    # Get the current time
+    today = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-def hello_pubsub(event, context):
-    """Triggered from a message on a Cloud Pub/Sub topic.
-    Args:
-         event (dict): Event payload.
-         context (google.cloud.functions.Context): Metadata for the event.
-    """
-    pubsub_message = base64.b64decode(event['data']).decode('utf-8')
-    print(pubsub_message)
-    generate_data()
+    # Upload CSV file to Cloud Storage
+    client = storage.Client()
+    bucket = client.get_bucket(bucket_name)
+    blob = bucket.blob(f'cloud_function_data/example_data_{today}.csv')
+    blob.upload_from_string(csv_string)
 
 # Getting list of playlist ids
 def chosen_playlist_ids():
@@ -146,6 +136,11 @@ def video_id_checker(base_list, grab_list, new_list):
         else:
             grab_list.append(video_id)
 
+# Function to retrieve the current time
+def get_current_time():
+    today = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    return today
+
 # gets all new video data for each video
 def get_video_stats(youtube, list_of_video_ids):
 
@@ -188,10 +183,15 @@ def get_video_stats(youtube, list_of_video_ids):
 
     return all_data_df
 
-# Function to retrieve the current time
-def get_current_time():
-    today = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    return today
+def hello_pubsub(event, context):
+    """Triggered from a message on a Cloud Pub/Sub topic.
+    Args:
+         event (dict): Event payload.
+         context (google.cloud.functions.Context): Metadata for the event.
+    """
+    pubsub_message = base64.b64decode(event['data']).decode('utf-8')
+    print(pubsub_message)
+    main()
 
 if __name__ == "__main__":
     hello_pubsub('data', 'context')
