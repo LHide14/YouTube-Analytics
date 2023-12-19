@@ -28,7 +28,7 @@ def main():
     # Upload CSV file to Cloud Storage
     client = storage.Client()
     bucket = client.get_bucket(bucket_name)
-    blob = bucket.blob(f'cloud_function_data/example_data_{today}.csv')
+    blob = bucket.blob(f'cloud_function_data/youtube_video_data_{today}.csv')
     blob.upload_from_string(csv_string, content_type='text/csv')
 
 # Getting list of playlist ids
