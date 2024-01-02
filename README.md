@@ -1,4 +1,3 @@
-
 # YouTube Analytics Project
 
 <details>
@@ -9,12 +8,7 @@
 - [Contributors](https://github.com/LHide14/YouTube-Analytics#Contributors)
 - [Technologies](https://github.com/LHide14/YouTube-Analytics#Technologies)
 <!-- tocstop -->
-
 </details>
-
-## What Makes a Good Data Science YouTube Video?
-
-YouTube is a massive global video hosting platform with billions of users across the world. With hundreds of billions of views it has become a 
 
 ## Contributors
 **Lawrence**
@@ -43,3 +37,5 @@ YouTube is a massive global video hosting platform with billions of users across
 
 </table>
 <br><br>
+
+## What Makes a Good Data Science YouTube Video?
