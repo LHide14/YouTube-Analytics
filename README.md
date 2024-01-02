@@ -43,8 +43,7 @@ Takes two numbers and returns the sum.
 
 
 ## Technologies
-<hr><br>
-<table align='center'>
+<table align='left'>
     <tr>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/python.png" title="python"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/jupyter.png" title="jupyter"></td>
