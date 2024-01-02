@@ -25,7 +25,7 @@
     <tr>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="sklearn"></td>
         <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/github.png" title="github"></td>
-        <td align='center'><img width="70" src="" title="github"></td>
+        <td align='center'><img width="70" src="https://icons8.com/icons/collections/471ze8a2y12jralc4hub" title="GCP"></td>
     </tr>
 
 </table>
