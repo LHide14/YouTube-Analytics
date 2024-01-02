@@ -45,6 +45,13 @@
 
 ## What Makes a Good Data Science YouTube Video?
 
+YouTube is the largest video sharing platform in world, with billions of views everyday. This gives it the ability to support thousands of creators across a range of subjects, including Data Science. Furthermore, the platform has become a fertile ground for business marketting; including advertising on videos, partneships and sponsorships with channels, or allowing business' to host their own video adverts.
+
+### Business Case
+- Understanding which videos to prioritise for marketting spending
+- Maximising monetisation and sponsorship opportunities in video production
+- Increasing educational reach of Data Science videos
+
 ## Data Collection from YouTube API
 
 ## Exploratory Data Ananlysis part 1
