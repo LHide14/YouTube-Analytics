@@ -14,7 +14,7 @@
 
 ## What Makes a Good Data Science YouTube Video?
 
-YouTube is a massive global video 
+YouTube is a massive global video hosting platform with billions of users across the world. With hundreds of billions of views it has become a 
 
 ## Contributors
 **Lawrence**
