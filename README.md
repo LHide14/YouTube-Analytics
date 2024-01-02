@@ -42,10 +42,23 @@
 Takes two numbers and returns the sum.
 
 
-## Badges
+## Technologies
+<hr><br>
+<table align='center'>
+    <tr>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/python.png" title="python"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/jupyter.png" title="jupyter"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/postgresql.png" title="postgresql"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/pandas.png" title="pandas"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/numpy.png" title="numpy"></td>
+    </tr>
+    <tr>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="sklearn"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/tableau.png" title="tableau"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/PowerBI.png" title="powerbi"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/aws.png" title="aws"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/github.png" title="github"></td>
+    </tr>
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+</table>
+<br><br>
