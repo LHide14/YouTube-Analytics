@@ -1,35 +1,51 @@
-﻿# YouTube-Analytics
 
- ## Data Collection
-
-- Collecting channel ids from youtube pages with source code
-- Using these to request channel info
-- Acquiring playlist ids
-- Obtaining video ids
-- Accessing video statistics
-- Merging tables together
-
- ## Data Cleaning and Formatting
-
- - Duration formatting
- - Category mapping
- - Published date formatting
- - Like ratio new column
- - Tags format
-    - OHE?
-    - NLP?
- - Tags Exist/Don't Exist new column
- - Description format
-    - OHE?
-    - NLP?
- - Description Exist/Don't Exist new column
- - Description word count new column
- - Title word count
- - Title formatting
-    - OHE?
-    - NLP?
- - True/False columns to numeric
- - Metadata report
+# YouTube Analytics Project
 
 
- ## Exploratory Data Analysis
+
+## Contributors
+**Lawrence**
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LHide14)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-hide-417255144/)
+
+**Mo**
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mms-mirza)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mms-mirza/)
+
+
+## API Reference
+
+#### Get all items
+
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
