@@ -1,7 +1,20 @@
 
 # YouTube Analytics Project
 
+<details>
+  <summary><strong>Table of Contents</strong> (click to expand)</summary>
 
+<!-- toc -->
+- [What Makes a Good Data Science Video](https://github.com/LHide14/YouTube-Analytics#What-Makes-a-Good-Data-Science-YouTube-Video?)
+- [Contributors](https://github.com/LHide14/YouTube-Analytics#Contributors)
+- [Technologies](https://github.com/LHide14/YouTube-Analytics#Technologies)
+<!-- tocstop -->
+
+</details>
+
+## What Makes a Good Data Science YouTube Video?
+
+YouTube is a massive global video 
 
 ## Contributors
 **Lawrence**
