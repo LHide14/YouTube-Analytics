@@ -8,6 +8,7 @@
 - [Technologies](https://github.com/LHide14/YouTube-Analytics#Technologies)
 - [What Makes a Good Data Science Video](https://github.com/LHide14/YouTube-Analytics#What-Makes-a-Good-Data-Science-YouTube-Video?)
 - [Data Collection from YouTube API](https://github.com/LHide14/YouTube-Analytics#Data-Collection-from-YouTube-API)
+- [Data Cleaning](https://github.com/LHide14/YouTube-Analytics#Data-Cleaning)
 - [Exploratory Data Ananlysis part 1](https://github.com/LHide14/YouTube-Analytics#Exploratory-Data-Ananlysis-part-1)
 - [Cloud Automated ETL Pipeline](https://github.com/LHide14/YouTube-Analytics#Cloud-Automated-ETL-Pipeline)
 - [Exploratory Data Ananlysis part 2](https://github.com/LHide14/YouTube-Analytics#Exploratory-Data-Ananlysis-part-2)
@@ -47,12 +48,35 @@
 
 YouTube is the largest video sharing platform in world, with billions of views everyday. This gives it the ability to support thousands of creators across a range of subjects, including Data Science. Furthermore, the platform has become a fertile ground for business marketting; including advertising on videos, partneships and sponsorships with channels, or allowing business' to host their own video adverts.
 
-### Business Case
+### Business Case:
 - Understanding which videos to prioritise for marketting spending
 - Maximising monetisation and sponsorship opportunities in video production
 - Increasing educational reach of Data Science videos
 
+### Project Flow:
+```mermaid
+flowchart TD;
+  A[Collect data from YouTube API] --> B[Data Cleaning] --> C[EDA] --> D[Cloud Automated ETL Pipeline] --> E[EDA on Pipeline] --> F[Modelling];
+```
+
 ## Data Collection from YouTube API
+
+- establish link with API
+- how we chose the channels?
+- acquiring channel id's
+- acquiring playlist id's
+- acquiring video id's
+- acquiring video stats
+- producing final dataframe
+
+## Data Cleaning
+
+- null handling
+- duplicates
+- changing dtypes
+- altering columns
+- creating columns
+- dropping columns
 
 ## Exploratory Data Ananlysis part 1
 
@@ -61,5 +85,7 @@ YouTube is the largest video sharing platform in world, with billions of views e
 ## Exploratory Data Ananlysis part 2
 
 ## Machine Learning and Modelling
+
+## API Reference
 
 
