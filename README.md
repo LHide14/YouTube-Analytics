@@ -83,14 +83,11 @@ flowchart TD;
 ```
 
 ## Data Cleaning
+```mermaid
+flowchart TD;
+  A{{Handling Null Values}} --> B{{Check for Duplicates}} --> C{{Change Data Types}} --> D{{Altering Columns}} --> E{{Creating Columns}} --> F{{Dropping Columns}} --> G[(Clean Data Frame)];
+```
 
-
-- null handling
-- duplicates
-- changing dtypes
-- altering columns
-- creating columns
-- dropping columns
 
 ## Exploratory Data Ananlysis part 1
 
