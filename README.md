@@ -89,6 +89,13 @@ The Target Column, was created by splitting from the median view count of 6856. 
 We chose this categorisation to determine what classes as a 'good video' or 'bad video' in our data, because those in the '1' category will always have more views than 50% of all other Data Science videos.
 
 ## Exploratory Data Ananlysis part 1
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/viewcount_distribution.png">
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/category_distribution.png">
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/toptags_distribution.png">
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/subscribersVSviewcount.png">
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/nooftagsVSviewcount.png">
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/licensedcontentVStarget.png">
+<img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/channelVStarget_percentage.png">
 
 
 ## Cloud Automated ETL Pipeline
