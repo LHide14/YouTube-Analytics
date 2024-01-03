@@ -71,7 +71,19 @@ flowchart TD;
 ### API Connection:
 We created a Google Account to access the Google API Console, then created a project in the Develeopers Console, and enabled YouTube Data API v3 to request an API key.
 
+### JSON request to Data Frame FLow:
+```mermaid
+flowchart TD;
+  A{{Manual selection and collection of Channel IDs}} --> B{{Function to collect Channel Stats}} --> C{{Filtering Channels}} --> D{{Function to collect video IDs}} --> E{{Function to collect Video Stats}};
+  B --> G[(Channel Data Frame)];
+  E --> H[(Video Stats Data Frame)];
+  G --> I[\Merge/];
+  H --> I[\Merge/];
+  I --> F[(Final Data Frame)]
+```
+
 ## Data Cleaning
+
 
 - null handling
 - duplicates
