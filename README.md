@@ -9,7 +9,7 @@
 - [What Makes a Good Data Science Video](https://github.com/LHide14/YouTube-Analytics#What-Makes-a-Good-Data-Science-YouTube-Video?)
 - [Data Collection from YouTube API](https://github.com/LHide14/YouTube-Analytics#Data-Collection-from-YouTube-API)
 - [Data Cleaning](https://github.com/LHide14/YouTube-Analytics#Data-Cleaning)
-- [Exploratory Data Ananlysis part 1](https://github.com/LHide14/YouTube-Analytics#Exploratory-Data-Ananlysis-part-1)
+- [Exploratory Data Analysis part 1 - Key Findings](https://github.com/LHide14/YouTube-Analytics#Exploratory-Data-Analysis-part-1---Key-Findings)
 - [Cloud Automated ETL Pipeline](https://github.com/LHide14/YouTube-Analytics#Cloud-Automated-ETL-Pipeline)
 - [Exploratory Data Ananlysis part 2](https://github.com/LHide14/YouTube-Analytics#Exploratory-Data-Ananlysis-part-2)
 - [Machine Learning and Modelling](https://github.com/LHide14/YouTube-Analytics#Machine-Learning-and-Modelling)
@@ -88,7 +88,7 @@ The Target Column, was created by splitting from the median view count of 6856. 
 
 We chose this categorisation to determine what classes as a 'good video' or 'bad video' in our data, because those in the '1' category will always have more views than 50% of all other Data Science videos.
 
-## Exploratory Data Ananlysis part 1
+## Exploratory Data Analysis part 1 - Key Findings
 <img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/viewcount_distribution.png">
 <img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/category_distribution.png">
 <img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/toptags_distribution.png">
@@ -97,9 +97,16 @@ We chose this categorisation to determine what classes as a 'good video' or 'bad
 <img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/licensedcontentVStarget.png">
 <img src="https://github.com/LHide14/YouTube-Analytics/blob/main/README_visualisations/channelVStarget_percentage.png">
 
-
-## Cloud Automated ETL Pipeline
-
+## GCP Automated ETL Pipeline
+```mermaid
+flowchart TD;
+  A{{Cloud Scheduler}} -- Triggers --> B{{Pub/Sub}} -- Messages --> C{{Cloud Function 1st gen}} -- Script Executes --> D[(Cloud Storage Bucket)] --> E[\"Transform:
+  Time Delta Column
+  Merge Data Frames
+  Eliminate Excess Data
+  Flip Rows"/] --> F[(Final Data Frame)] ;
+```
+  
 ## Exploratory Data Ananlysis part 2
 
 ## Machine Learning and Modelling
