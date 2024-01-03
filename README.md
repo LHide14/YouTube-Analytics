@@ -76,12 +76,20 @@ flowchart TD;
 ```
 
 ## Data Cleaning
+
+### Cleaning Flow:
 ```mermaid
 flowchart TD;
   A{{Handling Null Values}} --> B{{Check for Duplicates}} --> C{{Change Data Types}} --> D{{Altering Columns}} --> E{{Creating Columns}} --> F{{Dropping Columns}} --> G[(Clean Data Frame)];
 ```
 
+### Target Column:
+The Target Column, was created by splitting from the median view count of 6856. With 1 being video views > median, and 0 being video views < median.
+
+We chose this categorisation to determine what classes as a 'good video' or 'bad video' in our data, because those in the '1' category will always have more views than 50% of all other Data Science videos.
+
 ## Exploratory Data Ananlysis part 1
+
 
 ## Cloud Automated ETL Pipeline
 
