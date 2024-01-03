@@ -84,7 +84,7 @@ flowchart TD;
 ```
 
 ### Target Column:
-The Target Column, was created by splitting from the median view count of 6856. With 1 being video views > median, and 0 being video views < median.
+The Target Column, was created by splitting from the median view count of 6856. With 1 being video views greater than the median, and 0 being video views less than the median.
 
 We chose this categorisation to determine what classes as a 'good video' or 'bad video' in our data, because those in the '1' category will always have more views than 50% of all other Data Science videos.
 
