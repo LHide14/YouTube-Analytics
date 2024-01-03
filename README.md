@@ -61,13 +61,6 @@ flowchart LR;
 
 ## Data Collection from YouTube API
 
-- establish link with API
-- how we chose the channels?
-- acquiring channel id's
-- acquiring playlist id's
-- acquiring video id's
-- acquiring video stats
-- producing final dataframe
 ### API Connection:
 We created a Google Account to access the Google API Console, then created a project in the Develeopers Console, and enabled YouTube Data API v3 to request an API key.
 
@@ -87,7 +80,6 @@ flowchart TD;
 flowchart TD;
   A{{Handling Null Values}} --> B{{Check for Duplicates}} --> C{{Change Data Types}} --> D{{Altering Columns}} --> E{{Creating Columns}} --> F{{Dropping Columns}} --> G[(Clean Data Frame)];
 ```
-
 
 ## Exploratory Data Ananlysis part 1
 
