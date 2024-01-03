@@ -55,7 +55,7 @@ YouTube is the largest video sharing platform in world, with billions of views e
 
 ### Project Flow:
 ```mermaid
-flowchart TD;
+flowchart LR;
   A[Collect data from YouTube API] --> B[Data Cleaning] --> C[EDA] --> D[Cloud Automated ETL Pipeline] --> E[EDA on Pipeline] --> F[Modelling];
 ```
 
