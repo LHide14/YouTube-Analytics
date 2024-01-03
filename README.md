@@ -66,7 +66,7 @@ flowchart LR;
 ### API Connection:
 We created a Google Account to access the Google API Console, then created a project in the Develeopers Console, and enabled YouTube Data API v3 to request an API key.
 
-### JSON request to Data Frame FLow:
+### JSON Request to Data Frame Flow:
 ```mermaid
 flowchart TD;
   A{{Manual selection and collection of Channel IDs}} --> B{{Function to collect Channel Stats}} --> C{{Filtering Channels}} --> D{{Function to collect video IDs}} --> E{{Function to collect Video Stats}};
