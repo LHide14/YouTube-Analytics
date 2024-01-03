@@ -54,6 +54,8 @@ YouTube is the largest video sharing platform in world, with billions of views e
 - Increasing educational reach of Data Science videos
 
 ### Project Flow:
+
+
 ```mermaid
 flowchart LR;
   A{{Collect data from YouTube API}} --> B{{Data Cleaning}} --> C{{EDA}} --> D{{Cloud Automated ETL Pipeline}} --> E{{EDA on Pipeline}} --> F{{Modelling}};
