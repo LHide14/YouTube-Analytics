@@ -68,6 +68,8 @@ flowchart TD;
 - acquiring video id's
 - acquiring video stats
 - producing final dataframe
+### API Connection:
+We created a Google Account to access the Google API Console, then created a project in the Develeopers Console, and enabled YouTube Data API v3 to request an API key.
 
 ## Data Cleaning
 
