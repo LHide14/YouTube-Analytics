@@ -1,10 +1,14 @@
 from googleapiclient.discovery import build
 import pandas as pd
 import pickle
+import os
+from dotenv import load_dotenv
 
 def main():
 
-    api_key = 'AIzaSyBAobEQD70yA3gEWGjeZxGfyvvlwvMDsr8'
+    configure()
+
+    api_key = os.getenv('API_KEY')
 
     youtube = build('youtube', 'v3', developerKey=api_key)
 
@@ -14,7 +18,9 @@ def main():
 
     sorter(current_video_stats_df)
 
-
+# Retrieving Secure API
+def configure():
+    load_dotenv()
 
 
 # list of playlist ids

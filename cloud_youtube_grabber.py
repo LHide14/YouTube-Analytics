@@ -5,16 +5,20 @@ import pickle
 import datetime
 import base64
 from google.cloud import storage
+import os
+from dotenv import load_dotenv
 
 # Define variables for Cloud Functions
 bucket_name = 'youtube_analytics_bucket'
 project_name = 'angular-expanse-405413'
-api_key = 'AIzaSyBAobEQD70yA3gEWGjeZxGfyvvlwvMDsr8'
+api_key = os.getenv('API_KEY')
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 def main():
 
     # Creating data
+    configure()
+    
     current_video_ids = grab_list_generator()
 
     current_video_stats_df = get_video_stats(youtube, current_video_ids)
@@ -30,6 +34,10 @@ def main():
     bucket = client.get_bucket(bucket_name)
     blob = bucket.blob(f'cloud_function_data/youtube_video_data_{today}.csv')
     blob.upload_from_string(csv_string, content_type='text/csv')
+
+# Retrieving Secure API
+def configure():
+    load_dotenv()
 
 # Getting list of playlist ids
 def chosen_playlist_ids():
