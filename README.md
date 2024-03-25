@@ -107,12 +107,17 @@ flowchart TD;
   Merge Data Frames
   Eliminate Excess Data
   Flip Rows"/] --> F[(Final Data Frame)] ;
-```
-  
-## Exploratory Data Ananlysis part 2
+``` 
 
 ## Machine Learning and Modelling
-
-## API Reference
-
-
+```mermaid
+flowchart Td;
+  A[(Data)] --> B[(Numerical Data)] --> C{{Random Forest Classifier}} --> D{{Ensemble Model}};
+  A --> E[(Text Data)];
+  E --> F[(Title Data)];
+  E --> G[(Description Data)];
+  F --> H{{Logistic Regression Model}};
+  G --> I{{Logistic Regression Model}};
+  H --> D{{Ensemble Model}};
+  I --> D{{Ensemble Model}}
+```
