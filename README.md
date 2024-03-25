@@ -111,7 +111,7 @@ flowchart TD;
 
 ## Machine Learning and Modelling
 ```mermaid
-flowchart Td;
+flowchart TD;
   A[(Data)] --> B[(Numerical Data)] --> C{{Random Forest Classifier}} --> D{{Ensemble Model}};
   A --> E[(Text Data)];
   E --> F[(Title Data)];
